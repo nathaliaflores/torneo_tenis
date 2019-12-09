@@ -37,7 +37,7 @@
                             <label for="password">PASSWORD:</label>
                             <input type="password" class="form-control" id="password" name="password"/>
                         </div>
-                        <button type="submit" class="btn btn-warning btn-block">LOGIN</button>
+                        <button type="submit" class="btn btn-warning btn-block">LOGINN</button>
                     </form>
                     ${msg}
                 </div>
