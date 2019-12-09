@@ -19,9 +19,12 @@
                     <a href="NacionalidadServlet?action=obtenerTodos" class="btn btn-warning btn-block">NACIONALIDADES</a><br>
                     <a href="TorneoServlet?action=obtenerTodos" class="btn btn-warning btn-block">TORNEOS</a><br>
                     <a href="TorneoModalidadFase?action=obtenerTodos" class="btn btn-warning btn-block">TORNEO-MODALIDAD-FASE</a><br>
-                    <a href="PaisServlet?action=obtenerTodos" class="btn btn-warning btn-block">PAISES</a><br>
-                    <a href="PaisServlet?action=obtenerTodos" class="btn btn-warning btn-block">PAISES</a><br>
-                    <a href="PaisServlet?action=obtenerTodos" class="btn btn-warning btn-block">PAISES</a><br>
+                    
+                    <a href="PaisServlet?action=obtenerTodos" class="btn btn-warning btn-block">ARBITRO-TORNEO</a><br>
+                    <a href="PaisServlet?action=obtenerTodos" class="btn btn-warning btn-block">JUGADOR</a><br>
+                    <a href="PaisServlet?action=obtenerTodos" class="btn btn-warning btn-block">NACIONALIDAD JUGADOR</a><br>
+                    <a href="PaisServlet?action=obtenerTodos" class="btn btn-warning btn-block">PARTIDOS</a><br>
+                    <a href="PaisServlet?action=obtenerTodos" class="btn btn-warning btn-block">PARTIDO-JUGADOR</a><br>
                     
                 </div>
                 <div class="col-4"></div>
